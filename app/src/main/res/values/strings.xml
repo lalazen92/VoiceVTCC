@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoVTCC</string>
+    <string name="permission_message">This app needs to record audio and recognize your speech.</string>
+    <string name="listening">Listening…</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="load_file">Load file</string>
+
+</resources>
